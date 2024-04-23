@@ -1,0 +1,12 @@
+SNO, Name, NoOfPeopleVoted
+1, Arif Ur Rahman, 77	
+2, Moneeb Gohar, 20		
+3, Muhammad Muzammal, 35
+4, Sumaira Kausar, 55		
+5, Momina Moetesum, 44		
+6, Ali Irfan, 33
+7, Kamran Khan, 25
+8, Ali Nadeem, 23
+9, Sunjay Kumar, 32	
+10, Waqar Chohan, 56
+12, Taimoor, 1
